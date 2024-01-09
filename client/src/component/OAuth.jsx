@@ -40,7 +40,7 @@ export default function OAuth() {
         onClick={handleGoogleAuth}
         type="button"
         className="bg-yellow-500 w-1/4 p-4 rounded-xl text-xl text-gray-400 font-semibold hover:bg-yellow-300 hover:text-orange-500 transition-all ease-in-out duration-500">
-        Continue with Google
+        Continue with Google (Currently This Domain is Not Allowed to Sign In or Sign Up With Popups)
         </button>
     )
 }
