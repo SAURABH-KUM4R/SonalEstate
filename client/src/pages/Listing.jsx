@@ -108,7 +108,7 @@ function Listing() {
                 </p>
               )}
             </div>
-            <p className='text-orange-400 overflow-scroll'>
+            <p className='text-orange-400'>
               <span className='font-semibold text-purple-600'>Description - </span>
               {listing.description}
             </p>
